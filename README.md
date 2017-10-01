@@ -4,7 +4,7 @@ Contains projects made using Python 3.x and a few Python 2.x (We prefer Python 3
 
 Contribute to this repo by submitting fun and exciting projects.
 
-Also, please help us in improving us code.
+Also, please help us in improving our code.
 
 ### We now have our own chat group click link bellow to join it.
 
